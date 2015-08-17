@@ -1,4 +1,4 @@
 Big word
 git is a distributed version control system
-git is free software distributed under the GPL.
-thank
+git is free software distributed under the GPL
+thankd jioj.
